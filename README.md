@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱 I’m currently learning frontend development
+🌱 I’m currently learning frontend development and laravel
 
-💬 Ask me about clean code, testing, PHP, symfony, shopware
+💬 Ask me about clean code, PHP, symfony
 
 ---
 
