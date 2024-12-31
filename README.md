@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-🌱 I’m currently learning frontend development and laravel
-
 💬 Ask me about clean code, PHP, symfony
 
 ---
