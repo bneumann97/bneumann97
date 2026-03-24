@@ -6,7 +6,7 @@ Creator of:
 
 [MockApiBundle](https://github.com/bneumann97/mock-api-bundle) -> Mock third party API's in your Symfony integration tests with YAML or JSON files
 
-[OpensearchBundle](https://github.com/bneumann97/opensearch-bundle) -> "Symfony bundle providing native OpenSearch integration with Doctrine ORM support, index management, and blue/green reindexing.
+[OpensearchBundle](https://github.com/bneumann97/opensearch-bundle) -> Symfony bundle providing native OpenSearch integration with Doctrine ORM support, index management, and blue/green reindexing.
 
 ---
 
